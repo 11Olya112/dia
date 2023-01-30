@@ -3,9 +3,9 @@ Landing page according to [Figma design](https://www.figma.com/file/7qwsWggv9BAx
 
 In my project I used some technologies such as HTML, CSS, JS.
 
-Link to preview: https://github.com/11Olya112/dia
+-Link to preview: https://github.com/11Olya112/dia
 
-Link to layout: https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia))?node-id=9138%3A35&t=btZe73BoTG4fKMog-0
+-Link to layout: https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia))?node-id=9138%3A35&t=btZe73BoTG4fKMog-0
 
 Additional startup instructions:
 
